@@ -1189,7 +1189,7 @@ $.init = function() {
         ctx: $.ctxmg,
         x: $.cw / 2,
         y: $.ch - 172,
-        text: 'CREATED BY DEVANKIT SARKAR',
+        text: 'CREATED BY DHIRAJ SAHOO',
         hspacing: 1,
         vspacing: 1,
         halign: 'center',
